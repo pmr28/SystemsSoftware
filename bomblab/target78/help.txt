@@ -1,0 +1,5 @@
+touch1 address 0x40176c
+touch2 address 0x401798
+touch3 address 0x40186c
+cookie is 0x25866403
+stack decrements by 24 bytes in getbuf()
