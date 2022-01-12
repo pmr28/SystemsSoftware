@@ -1,5 +1,3 @@
-# CS449-Labs
+# Intro to Systems Software
 
-Collection of Labs for Intro to Systems Software with Dr. Vinicius Petrucci in Fall 2020 at the University of Pittsburgh
-
-*Note: Need to fix some of the folders/content
+Collection of Labs from Intro to Systems Software (CS 0449) with Dr. Vinicius Petrucci during Fall '20 at the University of Pittsburgh
